@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Day 1 Abdi Urgessa!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers

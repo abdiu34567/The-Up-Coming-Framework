@@ -1,4 +1,4 @@
-Day 1 Abdi Urgessa!
+Day 1 Abdi Urgessa OK!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
